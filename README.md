@@ -1,6 +1,6 @@
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/74747382?v=4" alt="Nicolas Brondin-Bernard" height="200" style="margin-right: 20px"/>
+<p style="display:flex; justify-items:space-around;">
+  <img src="https://avatars.githubusercontent.com/u/74747382?v=4" alt="Lydie Pluvinage" height="200" style="margin-right: 20px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=LydiePluvinage&show_icons=true&theme=graywhite" alt="Github Stats" />
 </p>
 <p>
@@ -23,5 +23,5 @@
   <h3>Where to find me</h3>
 <p><a href="https://github.com/LydiePluvinage" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/lydiepluvinage" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="http://lydiepluvinage.com" target="_blank"><img alt="Portfolioez" src="https://img.shields.io/badge/blog-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="http://lydiepluvinage.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/blog-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
